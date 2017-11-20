@@ -1,0 +1,4 @@
+Name: kickstarteR
+Description: Setup your R source files in ease
+Binding: kickstarteRAddin
+Interactive: true
